@@ -1,5 +1,7 @@
 # Android Facebook Stickers
 
+![](android-facebook-stickers/src/main/res/drawable/meep_0.png)
+
 ## Installation
 
 build.gradle via jcenter:
