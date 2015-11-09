@@ -18,7 +18,7 @@ Or build.gradle via jitpack.io
 
 ```gradle
 repositories {
-    jcenter()
+    // ...
     maven { url "https://jitpack.io" }
 }
 
